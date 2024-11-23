@@ -2,8 +2,7 @@
 
 A Power BI project to analyze bank loan data, offering actionable insights into lending trends, borrower profiles, and portfolio performance.
 
-![image](https://github.com/user-attachments/assets/bc918fa2-4a58-4f7a-884a-05b751b4f7bf)
-
+![image](https://github.com/user-attachments/assets/3155d5a0-4190-4d9e-9040-d9ca0dc205ba)
 
 ## **Overview** 📝
 - **Purpose**: Monitor loan metrics, assess portfolio health, and guide strategic decision-making.
