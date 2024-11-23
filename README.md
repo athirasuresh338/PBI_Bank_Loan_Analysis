@@ -24,8 +24,9 @@ A Power BI project to analyze bank loan data, offering actionable insights into 
 3. Explore the dashboards to gain insights.
 
 ## **Insights Delivered** 💡
-- 📊 Improved decision-making with loan performance metrics.  
-- 📍 Identified regional and demographic trends.  
-- 🔍 Supported risk management with borrower and loan segmentation.  
+- Trends in loan approval and funding.
+- Analysis of borrower demographics (employment length, home ownership).
+- Differentiation of 'Good Loans' and 'Bad Loans' for risk management.
+- Identification of regional and seasonal lending patterns.
 
 ---
